@@ -51,6 +51,7 @@ set mouse+=a
 
 " Unbind some useless/annoying default key bindings.
 nmap Q <Nop> " 'Q' in normal mode enters Ex mode. You almost never want this.
+nnoremap <SPACE> <Nop> for remap to leader
 
 "map keys
 let mapleader = " " " map leader to Space
