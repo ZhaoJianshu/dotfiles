@@ -12,6 +12,9 @@ vim.opt.splitbelow = true           -- open new vertical split bottom
 vim.opt.splitright = true           -- open new horizontal splits right
 vim.opt.showmode = false            -- we are experienced, wo don't need the "-- INSERT --" mode hint
 
+-- indent
+vim.opt.autoindent = true
+
 -- Searching
 vim.opt.hlsearch = false            -- do not highlight matches
 vim.opt.ignorecase = true           -- ignore case in searches by default
