@@ -17,7 +17,7 @@ syntax on " Turn on syntax highlighting.
 
 set number " Show line numbers.
 
-set relativenumber " This enables relative line numbering mode.
+" set relativenumber " This enables relative line numbering mode.
 
 set laststatus=2 " Always show the status line at the bottom, even if you only have one window open.
 
